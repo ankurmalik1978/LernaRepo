@@ -1,6 +1,6 @@
 {
   "name": "testapiconsumer2",
-  "version": "6.0.0-alpha.0",
+  "version": "7.0.0-alpha.0",
   "description": "Consumer of testap1",
   "main": "dist/index.js",
   "scripts": {

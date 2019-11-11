@@ -6,5 +6,3 @@ interface IStudentInfo{
 }
 
 export { IStudentInfo as StudentInfo}
-
-console.log("");

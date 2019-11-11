@@ -1,6 +1,6 @@
 {
   "name": "testapiconsumer2",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.0",
   "description": "Consumer of testap1",
   "main": "dist/index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "testapichild2": "1.0.0"
+    "testapichild2": "^1.0.0-alpha.0"
   }
 }

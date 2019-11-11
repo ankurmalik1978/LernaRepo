@@ -28,5 +28,6 @@
     "typescript": "^3.6.2"
   },
   "author": "anks",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "61a350e064c8229574ff0612f161ece84509c541"
 }

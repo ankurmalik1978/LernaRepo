@@ -18,5 +18,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "testapichild2": "^1.0.0-alpha.0"
-  }
+  },
+  "gitHead": "61a350e064c8229574ff0612f161ece84509c541"
 }

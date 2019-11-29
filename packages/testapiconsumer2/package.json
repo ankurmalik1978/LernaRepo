@@ -1,6 +1,6 @@
 {
   "name": "testapiconsumer2",
-  "version": "7.0.0-alpha.0",
+  "version": "4.0.1-alpha.0",
   "description": "Consumer of testap1",
   "main": "dist/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "testapichild2": "^6.0.0-alpha.0"
+    "testapichild2": "^4.0.1-alpha.0"
   },
   "gitHead": "61a350e064c8229574ff0612f161ece84509c541"
 }

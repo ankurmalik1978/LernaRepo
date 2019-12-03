@@ -6,6 +6,8 @@ console.log("Change 6");
 console.log("Change 7");
 console.log("Change 8");
 
+console.log("Change 10");
+
 let s: Students = new Students("Ankur", " Malik");
 // tslint:disable-next-line: no-console
 console.log("**********************************************************");
